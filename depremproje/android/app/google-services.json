@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "819724787356",
+    "firebase_url": "https://deprem-uygulamasi-41624-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "deprem-uygulamasi-41624",
+    "storage_bucket": "deprem-uygulamasi-41624.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819724787356:android:14938cf03e031b4918d759",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8AptrNA8tIpoboM21he-kVltCeJpcK7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819724787356:android:09bfc6b77dad74fb18d759",
+        "android_client_info": {
+          "package_name": "com.example.depremproje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8AptrNA8tIpoboM21he-kVltCeJpcK7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
